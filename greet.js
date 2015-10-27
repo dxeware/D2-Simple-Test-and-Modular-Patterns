@@ -4,4 +4,4 @@ function greet(name) {
 
 module.exports.saySomething = {
     greet: greet
-}
+};
