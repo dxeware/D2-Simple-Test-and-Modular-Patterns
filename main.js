@@ -1,3 +1,5 @@
+"use strict";
+
 var speaker = require('./greet.js');
 var parse = require('./parse.js');
 
