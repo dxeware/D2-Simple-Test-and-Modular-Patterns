@@ -1,3 +1,5 @@
+"use strict";
+
 var speaker = require('./greet.js');
 
 // This parses the command line arguments
